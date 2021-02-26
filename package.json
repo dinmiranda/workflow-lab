@@ -10,7 +10,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "console.table": "^0.10.0",
     "nodemon": "^1.18.10",
     "vorpal": "^1.11.4"
